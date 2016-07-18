@@ -1,7 +1,7 @@
 {
   "name": "xunlei-account",
   "description": "get xunlei vip account",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "async": "^2.0.0",
     "cheerio": "^0.20.0",
